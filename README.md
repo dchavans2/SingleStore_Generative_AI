@@ -12,5 +12,5 @@ Use OpenAI to ask questions of your doc and ask questions from your own TPCH dat
 
 **Step 4** - Upload the .ipynb file you downloaded in Step 1
 
-**Step 5 **- Change your OpenAI key, SERPAPI_API_KEY and Connection information and run code module by module
+**Step 5** - Change your OpenAI key, SERPAPI_API_KEY and Connection information and run code module by module
 
